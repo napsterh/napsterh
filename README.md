@@ -1,9 +1,3 @@
-# Napsterh
-
-
-
-
-
 
 # My Stats
 
